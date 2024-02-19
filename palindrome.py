@@ -1,5 +1,5 @@
 # Program to check if a string is palindrome or not
-print("heyy") 
+print("heyy") ANSWIN
 my_str = 'aIbohPhoBiA'
 
 # make it suitable for caseless comparison
